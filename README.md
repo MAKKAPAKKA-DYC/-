@@ -1,7 +1,7 @@
 # 第一次任务
 <h2>1.安装ubuntu系统</h2>
 	<p style="text-indent:2em">结合任务书给出的步骤进行第一次安装，安装过程中出现了系统界面显示不全的问题。在QQ群里了解到可能是iso文件的问题。远程拷贝别人的iso文件进行第二次安装并且安装成功。</p>
-	<img src= "D:\rm\ubuntu.png"alt="c++运行" width="600" height="300">
+	<img src="https://github.com/MAKKAPAKKA-DYC/-/blob/main/ubuntu.png" width="600" height="300">
 <h2>2.完成了ubuntu系统中vscode的安装和c++的配置</h2>
 <p style="text-indent:2em">结合csdn上多个教程完成了c++的配置。该过程没有出现问题。</p>
 <img src=[ "D:\rm\c++图.png"alt="c++运行"](https://github.com/MAKKAPAKKA-DYC/-/blob/main/c%2B%2B%E5%9B%BE.png) width="600" height="300">
