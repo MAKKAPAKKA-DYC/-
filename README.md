@@ -1,5 +1,5 @@
 # 第二次任务
-<h1>1.配置 C++ 开发环境</h2>
+<h2>1.配置 C++ 开发环境</h2>
 	<p style="text-indent:2em">在 Ubuntu 系统中安装vscode编译器和一系列插件。
 <h2>2.安装 OpenCV 库</h2>
 <p style="text-indent:2em">根据任务书使用编译安装的方式安装 OpenCV 的 C++ 版本。</p>
