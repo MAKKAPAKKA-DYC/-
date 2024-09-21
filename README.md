@@ -1,9 +1,9 @@
-# 第一次任务
-<h2>1.安装ubuntu系统</h2>
-	<p style="text-indent:2em">结合任务书给出的步骤进行第一次安装，安装过程中出现了系统界面显示不全的问题。在QQ群里了解到可能是iso文件的问题。远程拷贝别人的iso文件进行第二次安装并且安装成功。</p>
-	<img src="https://github.com/MAKKAPAKKA-DYC/-/blob/main/ubuntu.png" width="600" height="300">
-<h2>2.完成了ubuntu系统中vscode的安装和c++的配置</h2>
-<p style="text-indent:2em">结合csdn上多个教程完成了c++的配置。该过程没有出现问题。</p>
-<img src="https://github.com/MAKKAPAKKA-DYC/-/blob/main/c%2B%2B%E5%9B%BE.png" width="600" height="300">
-<h2>3.建立github仓库</h2>
-<p style="text-indent:2em">根据贡献指南配置个人的github仓库，在将生成的密钥复制到 Github 中的 Settings 中的 SSH and GPG keys 中的 New SSH key 并粘贴这一步骤中显示密钥不合法。根据(<a href="https://blog.csdn.net/weixin_42310154/article/details/118340458" title="示例网站" target="_blank">Github配置ssh key的步骤</a>)添加公钥，最终完成建立。</p>
+# 第二次任务
+<h1>1.配置 C++ 开发环境</h2>
+	<p style="text-indent:2em">在 Ubuntu 系统中安装vscode编译器和一系列插件。
+<h2>2.安装 OpenCV 库</h2>
+<p style="text-indent:2em">根据任务书使用编译安装的方式安装 OpenCV 的 C++ 版本。</p>
+<h2>3.组织项目结构</h2>
+<p style="text-indent:2em">使用cmakelist.txt组织项目结构如下图。</p>
+	<img src="https://github.com/MAKKAPAKKA-DYC/-/blob/main/c%2B%2B%E5%9B%BE.png" width="600" height="300">
+<p style="text-indent:2em">根据(<a href="https://blog.csdn.net/weixin_42310154/article/details/118340458" title="示例网站" target="_blank">Github配置ssh key的步骤</a>)添加公钥，最终完成建立。</p>
