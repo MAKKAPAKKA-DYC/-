@@ -17,3 +17,4 @@
 下图分别为输出图像，轮廓总面积，各轮廓面积
 <img src="https://github.com/MAKKAPAKKA-DYC/-/blob/main/assets/%E7%BB%88%E7%AB%AF.jpg" width="600"height=300">
 <img src="https://github.com/MAKKAPAKKA-DYC/-/blob/main/assets/%E9%9D%A2%E7%A7%AF1.png" width="600"height="300">
+<img src="https://github.com/MAKKAPAKKA-DYC/-/blob/main/assets/%E9%9D%A2%E9%A2%8A2.png" width="600"height="300">
