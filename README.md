@@ -14,4 +14,6 @@
 <p style="text-indent:2em">在应用均值滤波时，使用多个不同大小的核（如 3x3、5x5、7x7 等）对图像进行均值滤波。找到信噪比最高的滤波结果时，将该图像保存。</p>
 <p style="text-indent:2em">在应用高斯滤波时,chatgpt表示寻找合适的核一般使用试探法，较小的核适合保留更多细节，较大的核可以更强地去除噪声。再次寻找信噪比最高的滤波结果并保存图像</p>
 <p style="text-indent:2em">在提取红色区域时，首先使用hsv方法对经过高斯滤波处理后的图片进行红色区域提取，调节红色范围，发现提取到的红色区域仍不完全；后使用bgr方法，提取到了更为完全的红色区域。</p>
+下图分别为输出图像，轮廓总面积，各轮廓面积
 <img src="https://github.com/MAKKAPAKKA-DYC/-/blob/main/assets/%E7%BB%88%E7%AB%AF.jpg" width="600"height=300">
+<img src="https://github.com/MAKKAPAKKA-DYC/-/blob/main/assets/%E9%9D%A2%E7%A7%AF1.png" width="600"height="300">
