@@ -14,6 +14,12 @@
 
 以两个方框的中心点的连线为直径绘制圆。
 
+在windmill.hpp中，为了方便类外部访问和计算，将start_time 挪进 public，并且引入新的public : getR_center()、getCurrentAngle()、calculatePoint() 来对风车的旋转和位置进行外部计算
+
 修改后的代码见main.cpp和windmill.hpp
 
+<img src="https://github.com/MAKKAPAKKA-DYC/-/blob/main/assets/%E6%96%B9%E5%BD%A2%E5%9C%86%E5%BD%A2.png" alt="风车检测结果" width="500" height="300"/>
 
+## 拟合转速
+
+相关代码和结果已私发
